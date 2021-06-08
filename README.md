@@ -6,8 +6,6 @@ Individual Project
 
 <video src="README.assets/Game_Start_00.mov"></video>
 
-![Game_Sand_Scene_screenShot](README.assets/Game_Sand_Scene_screenShot.png)
-
 ## Introduction
 
 **Game** **Retrieval** is an indie adventure game in which you start from a lifeless and desolate valley, and experience retrieving the lost nature environment as well as water resources. During the journey of the game, you will also enjoy the aesthetics of the nature sceneries. 
@@ -15,6 +13,8 @@ Individual Project
 The game is supposed to give you an immersive, impressive, and emotional experience, with the applications of custom shaders, fog, particles, and light renderings.
 
 There are also interactions with the objects such as picking up staff, triggering door open, lightening grass and so on. 
+
+The Project is located here: [main/GameRetrival](https://github.com/nannz/CCI-CompEnv-Game-Retrival/tree/main/GameRetrival)
 
 ### Demo Video(Youtube)
 
