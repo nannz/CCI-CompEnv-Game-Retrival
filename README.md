@@ -16,6 +16,14 @@ The game is supposed to give you an immersive, impressive, and emotional experie
 
 There are also interactions with the objects such as picking up staff, triggering door open, lightening grass and so on. 
 
+### Demo Video(Youtube)
+
+Click the image below.
+
+[![Demo Video](README.assets/Game_Sand_Scene_screenShot.png)](https://www.youtube.com/watch?v=PofXuApfCjs "Demo Video on Youtube: CompEnv-Final-GameRetrieval")
+
+The video is also available here: [CCI-CompEnv-Game-Retrival/blob/main/demo_video/CompEnv-Final-GameRetrival-720p.mp4](https://github.com/nannz/CCI-CompEnv-Game-Retrival/blob/main/demo_video/CompEnv-Final-GameRetrival-720p.mp4)
+
 ### Story
 
 There are three scenes in total which are in a cohesion, rhythmic tone. The transition from warm to cold, then back to a pinkish warm of atmosphere supports the moving story about “*lost, find, retrieve*”. 
