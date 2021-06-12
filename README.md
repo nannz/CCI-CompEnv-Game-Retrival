@@ -4,7 +4,9 @@ The term-final project for course Advanced Visualisation and Computational Envir
 
 Individual Project
 
-<video src="README.assets/Game_Start_00.mov"></video>
+![game-startScene](README.assets/game-startScene.gif)
+
+![game_scenes_running](README.assets/game_scenes_running.gif)
 
 ## Introduction
 
