@@ -46,13 +46,22 @@ Last but not least, my personal goal is to practice on writing shaders for stunn
 
 ## Development and Design
 
-- Character Retargeting
+### 1-Chracter Retargeting
+
+![1-characterRetargeting](README.assets/1-characterRetargeting.png)
+
+### 2-Logo & UI Design
+
+<img src="README.assets/2-UI.png" alt="2-UI" style="zoom:25%;" />
+
+### 3-Sand Shader
+
+![SandRendering_0](README.assets/SandRendering_0.png)
+
+### More Development and Design
+
+- Character Retargeting: [blog link](https://nanzhaodocumentations.wordpress.com/2021/06/05/comp-env-final-3d-game-kit-and-change-the-character-targeting/)
 - UI & menu design, logo design
-- Shader Explanation: Sand & Water Flow, (Toon Shading)
+- Shader: Sand, Water Flow, (Toon Shading), gradient skybox shader : [blog link](https://nanzhaodocumentations.wordpress.com/2021/06/08/comp-env-final-sand-scene-shader-skybox-fog-particles/)
 - More on how I built the scene: custom gradient skybox, lighting setup(Key, Fill, Rim), Fx Light, Particles, Fog
 - Interactions: SendOnTrigger(), SimpleTranslator(), InteractOnTrigger(), SwitchMaterials(), SendGameCommand()
-
-### Blog
-
-
-
